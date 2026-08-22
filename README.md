@@ -4,9 +4,9 @@
 
 **Computer Engineering Co-op Student @ Concordia University**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vrizon.github.io-E8A33D?style=flat-square)](https://vrizon.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vrizon.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://vrizon.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/valeriia-nikandrova)
-[![Midnilight](https://img.shields.io/badge/Midnilight-Study-4FB8A6?style=flat-square)](https://www.midnilight.com/)
+[<img src="./assets/midnilight-icon.png" width="20" height="20" align="center" />](https://www.midnilight.com/) **[Midnilight Study](https://www.midnilight.com/)**
 
 </div>
 
@@ -23,18 +23,11 @@
 
 **Languages & Frameworks**
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,kotlin,cpp,c,html,css,react,nodejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,react,reactnative,python,java,kotlin,cpp,c,html,css,nodejs)](https://skillicons.dev)
 
 **Tools**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman,vercel,mysql,azure,githubactions)](https://skillicons.dev)
-
-**AI tools**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,sql,mysql,vscode,androidstudio,postman,vercel,azure,githubactions)](https://skillicons.dev)
 
 ### Featured project
 
