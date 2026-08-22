@@ -4,9 +4,13 @@
 
 **Computer Engineering Co-op Student @ Concordia University**
 
-[![Portfolio](https://skillicons.dev/icons?i=github)](https://vrizon.github.io)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://www.linkedin.com/in/valeriia-nikandrova)
-[<img src="./assets/midnilight-icon.png" width="48" height="48" align="center" />](https://www.midnilight.com/)
+<table align="center">
+  <tr>
+    <td align="center" width="70"><a href="https://vrizon.github.io"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a></td>
+    <td align="center" width="70"><a href="http://www.linkedin.com/in/valeriia-nikandrova"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a></td>
+    <td align="center" width="70"><a href="https://www.midnilight.com/"><img src="./assets/midnilight-icon.png" width="48" height="48" /></a></td>
+  </tr>
+</table>
 
 </div>
 
