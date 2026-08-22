@@ -4,8 +4,6 @@
 
 **Computer Engineering Co-op Student @ Concordia University**
 
-Building full-stack software end to end — from architecture through deployment.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-vrizon.github.io-E8A33D?style=flat-square)](https://vrizon.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/valeriia-nikandrova)
 [![Midnilight](https://img.shields.io/badge/Midnilight-Study-4FB8A6?style=flat-square)](https://www.midnilight.com/)
