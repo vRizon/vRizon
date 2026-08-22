@@ -30,7 +30,7 @@
 
 ### Featured project
 
-**[Midnilight Study](https://www.midnilight.com/)** — a cozy Pomodoro timer browser extension, designed solo in Figma and built in JavaScript, with a companion React website hosted on Vercel. Published live on the Chrome Web Store and Firefox Add-ons.
+<img src="./assets/midnilight-icon.png" width="24" height="24" align="center" /> **[Midnilight Study](https://www.midnilight.com/)** — a cozy Pomodoro timer browser extension, designed solo in Figma and built in JavaScript, with a companion React website hosted on Vercel. Published live on the Chrome Web Store and Firefox Add-ons.
 
 ---
 
