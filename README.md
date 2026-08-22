@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="http://www.linkedin.com/in/valeriia-nikandrova"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.midnilight.com/"><img src="./assets/midnilight-icon.png" width="40" height="40" /></a>
+  <a href="https://www.midnilight.com/"><img src="./assets/midnilight-icon.png" width="48" height="48" /></a>
 </p>
 
 </div>
