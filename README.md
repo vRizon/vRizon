@@ -20,7 +20,7 @@
 
 - 🎓 Computer Engineering Co-op student, Concordia University
 - 👩‍💻 Currently building full-stack apps with **Java, Python, JavaScript, and React**
-- 🌙 Designed and published **[Midnilight Study](https://www.midnilight.com/)** — a Pomodoro browser extension, live on Chrome Web Store & Firefox Add-ons
+- 🌙 Designed and published **[Midnilight Study](https://www.midnilight.com/)** - a Pomodoro browser extension, live on Chrome Web Store & Firefox Add-ons
 
 ### Skills
 
