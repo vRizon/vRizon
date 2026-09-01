@@ -5,18 +5,14 @@
 **Computer Engineering Co-op Student @ Concordia University**
 
 <p align="center">
-  <a href="https://vrizon.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://www.midnilight.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  &nbsp;
+
   <a href="mailto:nikandrovavaleriia@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+
   <a href="http://www.linkedin.com/in/valeriia-nikandrova" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
