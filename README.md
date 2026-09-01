@@ -39,5 +39,7 @@
 ---
 
 <div align="center">
-<sub>📫 Reach me at nikandrovavaleriia@gmail.com</sub>
+<a href="mailto:nikandrovavaleriia@gmail.com">
+  <img src="https://img.shields.io/badge/📫_Reach_me-nikandrovavaleriia%40gmail.com-blueviolet?style=for-the-badge" />
+</a>
 </div>
