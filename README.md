@@ -42,10 +42,3 @@
 
 <img src="./assets/midnilight-icon.png" width="24" height="24" align="center" /> **[Midnilight Study](https://www.midnilight.com/)** - a cozy Pomodoro timer browser extension, designed solo in Figma and built in JavaScript, with a companion React website hosted on Vercel. Published live on the Chrome Web Store and Firefox Add-ons.
 
----
-
-<div align="center">
-<a href="mailto:nikandrovavaleriia@gmail.com">
-  <img src="https://img.shields.io/badge/📫_Reach_me-nikandrovavaleriia%40gmail.com-blueviolet?style=for-the-badge" />
-</a>
-</div>
